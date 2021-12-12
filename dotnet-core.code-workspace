@@ -1,12 +1,12 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "HelloWebApp"
-	}
-],
+    {
+      "path": "HelloWebApp"
+    },
+    {
+      "path": "HelloConsole"
+    }
+  ],
   "settings": {
     "workbench.colorCustomizations": {
       "activityBar.background": "#063336",
