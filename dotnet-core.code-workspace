@@ -5,6 +5,9 @@
     },
     {
       "path": "HelloConsole"
+    },
+    {
+      "path": "HelloAPI"
     }
   ],
   "settings": {
